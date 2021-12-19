@@ -1,1 +1,2 @@
 "this is mergeconflict demo" 
+change 1 this change is done by github user
