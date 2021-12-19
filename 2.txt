@@ -1,4 +1,8 @@
 "this is file b in the folder"
 
 
-this is a new change to 2.txt 
+this is a new change to 2.txt
+
+
+
+this is an addition to 2.txt 
